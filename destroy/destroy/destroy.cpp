@@ -7,7 +7,9 @@ using namespace std;
 int main()
 {
     std::cout << "자 이제 시작이야\n";
-    cout << "누구 맘대로! ";
+    cout << "누구 맘대로! \n";
+    cout << "안돼 안돼~ \n";
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
