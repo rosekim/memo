@@ -12,6 +12,12 @@ int main()
     cout << " lsy brunch 가 안내려와요\n";
     cout << "안녕 나야나"
         cout << "아이구 살려줘";
+    
+    int a = 10;
+    int b = 5; 
+
+    int bbbbbbbb = 0;
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
